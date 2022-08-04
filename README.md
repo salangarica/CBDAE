@@ -10,7 +10,7 @@ This is a data-driven technique for data cleaning to be used in control applicat
 
 - Denoising results in real industrial data
 
-![My Image](Images/Output Solids Concentration_denoising.png)
+![My Image](Images/Output_Solids_Concentration_denoising.png)
 
 ![My Image](Images/Bed_reconstruction.png)
 
